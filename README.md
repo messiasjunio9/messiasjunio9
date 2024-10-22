@@ -1,6 +1,6 @@
 # Olá, eu sou Messias
-- 👨🏿‍🏫 Atualmente sou estudante do ced agrourbano ipê
-- 
+-👨🏿‍🏫 Atualmente sou estudante do ced agrourbano ipê
+ 
 -👨🏻‍💻cursando desenvolvimento de sistemas no senac-DF
 
 -🎥procuro aprender e ampiliar minha visão na area de desenvolvimento
